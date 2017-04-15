@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_208928e7713021b9a31daa65c626bd021786f1e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53bb5cde00765d07def99922093f4a0f1d80f192">
+        <dex dex="/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3bd361a27e243f37886ceb330043228badfae3bd/classes.dex" />
+    </item>
+
+</items>

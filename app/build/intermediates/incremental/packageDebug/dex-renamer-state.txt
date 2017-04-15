@@ -1,0 +1,7 @@
+#Sat Apr 15 01:51:10 CDT 2017
+base.0=/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_208928e7713021b9a31daa65c626bd021786f1e0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3bd361a27e243f37886ceb330043228badfae3bd/classes.dex
+base.1=/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3bd361a27e243f37886ceb330043228badfae3bd
+file.0=/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_208928e7713021b9a31daa65c626bd021786f1e0/classes.dex

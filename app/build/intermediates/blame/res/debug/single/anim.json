@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Trevor/.android/build-cache/ff2204fafa2a42f088bba9da78f32f085e8325de/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Trevor/.android/build-cache/ff2204fafa2a42f088bba9da78f32f085e8325de/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Trevor/.android/build-cache/ff2204fafa2a42f088bba9da78f32f085e8325de/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Trevor/.android/build-cache/ff2204fafa2a42f088bba9da78f32f085e8325de/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Trevor/.android/build-cache/ff2204fafa2a42f088bba9da78f32f085e8325de/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Trevor/Downloads/SQLiteSample1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Trevor/.android/build-cache/ff2204fafa2a42f088bba9da78f32f085e8325de/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
